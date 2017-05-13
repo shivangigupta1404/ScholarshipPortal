@@ -1,0 +1,120 @@
+{%load staticfiles%}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Scholarship Portal</title>  
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>	
+    <style type="text/css">
+      body
+      {  
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('../static/scholarship/images/background.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100%;
+      }
+
+      .main_body
+      {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('Scholarships.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100%;
+        opacity: 0.3;
+        filter:alpha(opacity=20);
+      }
+
+      .navbar_custom 
+      {
+        color: #FFFFFF;
+        background-color: #581845 ;
+      }
+
+      .content_body 
+      {
+        padding-top: 5%;
+      }
+
+      .margin{height:200px;}
+      .item
+      {
+        border:3px solid #000;
+        border-radius:25px;
+        background-color:#581845 ;
+        margin:5px 7% 5px;
+        width:19%;
+        padding:30px 10px 30px;
+        display:inline-block;
+        font-size:17px;
+      }
+      .menu a{color:white;}
+      .brand
+      {
+      	color:#fff;font-family: 'Pacifico', cursive;
+       	padding:15px;
+        text-align:middle;
+      }
+      .footer
+      {
+        background-color:#45015;
+        color:#fff;
+      }
+      @media(max-width:767px){
+        .margin{height:170px;display:none;}
+        .item{border:2px solid #078;margin:16px 21% 50px;width:64%;;}
+        .menu a{color:red;}
+      }      
+    </style>
+  </head>
+  <body>
+    <div id="box">
+        <nav class="navbar navbar-inverse navbar_custom ">
+          <div class="container-fluid">
+            <div class="navbar-header" style="padding-left:8%;">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>    
+            </div>
+            <div class="collapse navbar-collapse text-center" id="myNavbar">  
+              <h1 class="brand text-center">Scholarships Portal</h1>     
+            </div>
+          </div>
+        </nav>
+        <div class="margin">
+        </div>
+        <div class="container-fluid">
+          <div class="menu text-center">
+            <div class="item">
+              <a href="{% url 'analysis' %}"><b>Results of Analysis</b></a>
+            </div>
+            <div class="item">
+              <a href="{% url 'map' %}"><b>Scholarships on World Map</b></a>
+            </div>
+            <div class="item">
+              <a href="{% url 'search' %}"><b>Search Scholarship</b></a>
+            </div>
+          </div>
+        </div>
+        <div class="footer navbar-fixed-bottom text-center navbar_custom">
+          &copy; scholarships.com
+        </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,171 @@
+{%load staticfiles%}
+<html>
+<head>
+    <title>Highcharts Tutorial</title>
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+   <script src="http://code.highcharts.com/highcharts.js"></script> 
+   <script src="http://code.highcharts.com/highcharts-more.js"></script>    
+   <script src="http://code.highcharts.com/modules/data.js"></script> 
+   <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+   <style>
+    #back{font-size:40px;color: #fff;position:relative;left:50px;}
+   </style>
+</head>
+<body style="margin-top:40px;background-color:#000;">
+<div id="back"><a href="{% url 'homepage' %}"><span class="glyphicon glyphicon-arrow-left"></span></a></div>
+<div class="container">
+    <div id="container1" class="col-sm-8" style="height: 400px;margin: 0 auto"></div>
+    <div id="container2" class="col-sm-4" style="height: 400px;margin: 0 auto"></div>
+    <div id="container3" class="col-sm-6 col-sm-offset-3" style="height: 400px;margin-top:40px;"></div>
+</div>
+<script language="JavaScript">
+$(document).ready(function() {
+    $.get('../static/scholarship/csv/country.csv', function(csv) {
+        Highcharts.setOptions({colors: ['#50B432']});
+        $('#container1').highcharts({
+            title: {
+                text: 'Top countries from where users are posting tweets regarding Scholarships',
+                style: {fontFamily: 'monospace',color: "#fff"}
+
+            },            
+            chart: {
+                type: 'column',
+                backgroundColor:'#000',
+            },
+            data: {
+                csv: csv
+            },
+            yAxis: {
+                title: {
+                    text: 'Number of tweets',
+                    style: {fontFamily: 'monospace',color: "#fff"}
+                },
+                labels: {
+                    step:1,
+                    style: {fontFamily: 'monospace',color: "#fff"}
+                }
+            },
+            xAxis: {
+                 labels: {style: {color: '#fff'}
+                          }
+            },
+            plotOptions: {
+                series: {
+                    dataLabels: {
+                        enabled: true,
+                        style: {fontFamily: 'monospace',color: "#fff"}
+                    }
+                }
+            },
+            credits:{enabled:false},
+            legend:{
+                layout: 'vertical',
+                align: 'center',
+                verticalAlign: 'bottom',
+                itemStyle: {
+                    font: '9pt Trebuchet MS, Verdana, sans-serif',
+                    color: '#fff'
+                 },
+                itemHoverStyle: {
+                     color: '#fff'
+                },
+            }
+        });
+    });
+
+    $.get('../static/scholarship/csv/language.csv', function(csv) {
+        Highcharts.setOptions({colors: ['#DDDF00', '#24CBE5', '#FF9655', '#FFF263', '#6AF9C4','#058DC7','#ED561B', ]});
+        $('#container2').highcharts({
+            title: {
+                text: 'Language of tweets',
+                style: {fontFamily: 'monospace',color: "#fff"}
+            },            
+            chart: {
+                type: 'pie',
+                backgroundColor:'#000',
+            },
+            data: {
+                csv: csv
+            },
+            yAxis: {
+                title: {
+                    text: 'Number of tweets'
+                },
+                labels: {
+                    step:1
+                }
+            },
+            plotOptions: {
+                pie: {
+                    dataLabels: {
+                        enabled: true
+                    }
+                }
+            },
+            credits:{enabled:false},
+            legend:{
+                layout: 'vertical',
+                align: 'right',
+                verticalAlign: 'middle',
+            },
+	   label:{style: {
+	       color: '#fff'
+                 }}
+        });
+    });
+
+    $.get('../static/scholarship/csv/user.csv', function(csv) {
+        Highcharts.setOptions({colors: ['#ED561B']});
+        $('#container3').highcharts({
+            title: {
+                text: 'Top 5 users posting tweets about scholarships',
+                style: {fontFamily: 'monospace',color: "#fff"}
+            },            
+            chart: {
+                type: 'column',
+                backgroundColor:'#000',
+
+            },
+            data: {
+                csv: csv
+            },
+            yAxis: {
+                title: {
+                    text: 'Number of tweets',
+                    style: {fontFamily: 'monospace',color: "#fff"}
+                },
+                labels: {
+                    step:1,
+                    style: {fontFamily: 'monospace',color: "#fff"}
+                }
+            },
+            xAxis: {
+                 labels: {style: {color: '#fff'}
+                    }
+            },
+            plotOptions: {
+                series: {
+                    dataLabels: {
+                        enabled: true
+                    }
+                }
+            },
+            credits:{enabled:false},
+            legend:{
+                layout: 'vertical',
+                align: 'center',
+                verticalAlign: 'bottom',
+                itemStyle: {
+                    font: '9pt Trebuchet MS, Verdana, sans-serif',
+                    color: '#fff'
+                 },
+                itemHoverStyle: {
+                     color: '#fff'
+                },
+            }
+        });
+    });
+});
+</script>
+</body>
+</html>

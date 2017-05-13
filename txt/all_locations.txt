@@ -1,0 +1,843 @@
+aachen
+aberdeen
+abidjan
+abu dhabi
+accra 
+adana
+addis ababa
+adelaide
+afghanistan
+africa
+agadir
+agra
+aguadilla
+ahmedabad 
+ahwaz
+akron
+alabama
+albania
+albany
+albuquerque
+aleppo 
+alexandria 
+algeria
+algiers
+allahabad
+allentown
+almaty
+america
+american intercontinental
+amman
+amritsar
+andorra
+angola
+ankara
+anqiu
+anshan
+antananarivo
+antarctica
+antigua and barbuda
+antwerp
+anyang
+arequipa
+argentina
+armenia
+asheville
+asia
+athens 
+atlanta 
+auckland
+augusta
+aurangabad
+austin
+australia
+austria
+avignon
+azerbaijan
+baghdad
+bahamas
+bahrain
+baku
+baltimore
+bamako
+bandung 
+bangalore
+bangkok 
+bangladesh
+baoding
+baoshan
+baotou
+barbados
+barcelona 
+barnstable town
+barquisimeto
+barranquilla
+basrah
+baton rouge
+bazhong
+beijing 
+beiliu
+beirut
+belarus
+belem
+belgium
+belgrade
+belize
+belo horizonte 
+bengaluru 
+benghazi
+benin
+berlin 
+bethune
+bhopal
+bhutan
+bijie
+birmingham
+bogot 
+bogota
+bolivia
+bombay
+bonita springs
+bordeaux
+bosnia and herzegovina
+boston 
+botswana
+bozhou
+bradford
+brasilia
+brazil
+brazzaville
+bridgeport
+brisbane
+brunei
+brussels
+bucharest
+budapest
+buenos aires 
+buffalo
+bulgaria
+burkina faso
+bursa
+burundi
+busan
+cabo verde
+cairo
+calcutta
+calgary
+cali
+california
+caloocan
+cambodia
+cameroon
+campinas
+canada
+canton
+cape coral
+capetown
+cape town
+caracas
+casablanca 
+central african republic
+central florida
+chad
+chandigarh
+changchun
+changde
+changsha 
+changshu
+changzhou
+chaoyang
+charleston
+charlotte
+chattanooga
+chelyabinsk
+chengdu
+chennai 
+chiba
+chicago 
+chile
+china
+chittagong 
+chongqing 
+cincinnati
+ciudad guayana
+ciudad juarez
+cixi
+cleveland
+coimbatore
+cologne
+colombia
+colorado springs
+columbia
+columbus
+comoros
+conakry
+concord
+congo, democratic republic of the
+congo, republic of the
+copenhagen
+cordoba
+costa rica
+cote d'ivoire
+coventry
+croatia
+cuba
+curitiba
+curitiba 
+cyprus
+czech republic
+daegu
+daejeon
+dakar 
+dalhousie
+dalian 
+dallas
+damascus
+damman
+dar es salaam 
+datong
+davao city
+dayton
+delhi 
+denmark
+denver
+detroit
+detroit 
+dhaka
+dhaka 
+dhanbad
+djibouti
+dnipropetrovsk
+dominica
+dominican republic
+donetsk
+dongguan 
+dongtai
+douai
+douala
+dubai 
+dublin
+dundee
+durban
+durg
+durham
+ecatepec
+ecuador
+edinburgh
+edmonton
+egypt
+ekaterinburg
+el paso
+el salvador
+equatorial guinea
+eritrea
+esfahan
+essen
+estonia
+ethiopia
+europe
+ezhou
+faisalabad 
+faridabad
+fayetteville
+feicheng
+fengcheng
+fes
+fiji
+finland
+flint
+florida
+fortaleza 
+france
+frankfurt
+freetown
+fukuoka
+fuqing
+fushun
+fuyang
+fuzhou 
+gabon
+gambia
+gaozhou
+gaziantep
+georgia
+germany
+ghana
+ghaziabad
+giza
+glasgow
+goiania
+gold coast
+gongzhuling
+goyang
+grambling
+grand rapids
+greater cairo 
+greece
+greenville
+grenada
+guadalajara 
+guangzhou
+guarulhos
+guatemala
+guatemala city
+guayaquil
+guigang
+guilin
+guinea
+guinea-bissau
+guiping
+guiyang
+gujranwala
+guyana
+gwangju
+haicheng
+haimen
+haiphong
+haiti
+hamburg
+handan
+hangzhou 
+hanoi 
+haora
+harare
+harbin
+harrisburg
+hartford
+havana
+hechuan
+hefei 
+helsinki
+heze
+hezhou
+hickory
+hiroshima
+ho chi minh city
+honduras
+hong kong 
+honolulu
+houston
+houston 
+huainan
+huazhou
+huludao
+hungary
+huntsville
+huzhou
+hyderabad 
+ibadan 
+iceland
+incheon
+india
+indianapolis
+indonesia
+indore
+iran
+iraq
+irbil
+ireland
+israel
+istanbul 
+italy
+izmir
+jabalpur
+jackson
+jacksonville
+jaipur 
+jakarta
+jamaica
+japan
+jeddah 
+jiangdu
+jianyang
+jilin
+jimo
+jinan 
+jining
+jinjiang
+jodhpur
+johannesburg
+jordan
+kabul 
+kaduna
+kampala
+kano 
+kanpur
+kansas city
+kaohsiung
+karachi 
+karaj
+kathmandu
+katowice
+kawasaki
+kazakhstan
+kazan
+kentucky
+kenya
+kharkiv
+khartoum 
+kiev
+kinshasa 
+kiribati
+kitakyushu
+knoxville
+kobe
+kolkata 
+kosovo
+kowloon
+krasnoyarsk
+kuala lumpur
+kumasi
+kunming
+kuwait
+kuwait city 
+kyoto
+kyrgyzstan
+la matanza
+la paz
+lagos 
+lahore 
+laiwu
+laizhou
+lancaster
+lanzhou
+laos
+las vegas
+latvia
+lebanon
+leeds
+leon
+leqing
+leshan
+lesotho
+lianjiang
+liberia
+libya
+liechtenstein
+lille
+lima
+linyi
+lisbon
+lithuania
+little rock
+liuyang
+london
+london 
+los angeles 
+louisville
+luanda
+luanda  
+lubumbashi
+lucknow 
+ludhiana
+lufeng
+lumumbashi
+luoyang
+lusaka
+luxembourg
+luzhou
+lyon
+macedonia
+maceio
+macheng
+madagascar
+madrid 
+madurai
+maiduguri
+makasar
+malawi
+malaysia
+maldives
+mali
+malta
+managua
+manaus
+manchester
+mandalay
+manila
+manila metro
+maputo
+maracaibo
+marrakech
+marseille
+marshall islands
+maryland
+mashhad 
+mauritania
+mauritius
+mbuji-mayi
+mcallen
+mecca
+medan 
+medell
+medellin
+medina
+meerut
+melbourne 
+memphis
+mexicali
+mexico
+mexico city 
+miami
+mianyang
+micronesia
+milan 
+milwaukee
+minneapolis
+minnesota
+minsk
+mirat
+mobile
+mogadishu
+moldova
+monaco
+mongolia
+montenegro
+monterey
+monterrey
+montevideo
+montreal
+morocco
+moscow
+mosul
+mozambique
+mudanjiang
+multan
+mumbai
+munich
+myanmar (burma)
+nagoya
+nagpur
+nairobi 
+namibia
+nanan
+nanchang
+nanchong
+nanjing 
+nanning
+nantes
+naples 
+nashik
+nashville
+nauru
+neijiang
+nepal
+netherlands
+new england
+new haven
+new orleans
+new york
+new york city 
+new york metro
+new zealand
+newcastle
+nezahualcoyotl
+nicaragua
+nice
+niger
+nigeria
+ningbo 
+nizhni novgorod
+north america
+north korea
+norway
+notre dame
+novosibirsk
+NZ
+odessa
+ogden
+oklahoma city
+omaha
+oman
+omdurman
+omsk
+orlando
+osaka
+oslo
+ottawa
+ouagadougou
+oxford
+pakistan
+palau
+palembang
+palestine
+palm bay
+panama
+papua new guinea
+paraguay
+paris
+patna
+pau
+penn state
+pensacola
+perm
+perth
+peru
+peshawar
+philadelphia 
+philippines
+phnom penh
+phoenix
+phoenix 
+pikine-guediawaye
+pimpri chinchwad
+pingdingshan
+pingdu
+pittsburgh
+poland
+port elizabeth
+port harcourt
+port st lucie
+port-au-prince
+portland
+porto
+porto alegre 
+portugal
+poughkeepsie
+prague
+pretoria
+princeton
+providence
+puebla
+pune 
+pyongyang
+qatar
+qianjiang
+qidong
+qingdao
+qiqihaer
+qom
+quanzhou 
+quebec
+queensland
+quezon city
+quito
+rajkot
+raleigh
+ranchi
+rawalpindi
+recife 
+richmond
+rio de janeiro 
+riverside
+riyadh 
+rizhao
+rochester
+romania
+rome 
+rosario
+rostov on don
+rotterdam
+rugao
+ruian
+russia
+rwanda
+sacramento
+safi
+saint petersburg 
+saitama
+salt lake city
+salvador 
+salvador da bahia
+samara
+samoa
+san antonio
+san diego
+san diego 
+san francisco
+san jose
+san juan
+san marino
+sanaa
+santa cruz
+santiago 
+santo domingo
+sao goncalo
+sao luis
+sao paulo
+sao tome and principe 
+sapporo
+sarasota
+saudi arabia
+scranton
+seattle
+seattle 
+semarang
+sendai
+senegal
+seongnam
+seoul
+serbia
+seychelles
+shanghai 
+shangqiu
+shantou
+shenyang 
+shenzhen
+shijiazhuang 
+shiraz
+shouguang
+shreveport
+sierra leone
+singapore
+slovakia
+slovenia
+sofia
+solapur
+solomon islands
+somalia
+songzi
+south africa
+south america
+south bend
+south korea
+south sudan
+soweto
+spain
+spokane
+springfield
+sri lanka
+srinagar
+st catharines
+st petersburg
+st. kitts and nevis 
+st. louis
+st. lucia
+st. vincent and the grenadines 
+stockholm
+stuttgart
+subra al-haymah
+sudan
+suining
+suizhou
+sumqayit
+surabaya
+surat
+suriname
+suwon
+suzhou 
+suzhou anhui
+swaziland
+sweden
+switzerland
+sydney 
+syracuse
+syria
+tabriz
+taian
+taichung
+taipei 
+taishan
+taiwan
+taixing
+taiyuan
+taizhou
+tajikistan
+tamil nadu
+tampa
+tangerang
+tangshan
+tanzania
+tashkent
+tbilisi
+tegucigalpa
+tehran 
+tel aviv
+tengzhou
+thailand
+thane
+tianjin 
+tianmen
+tianshui
+tijuana
+timor-leste
+togo
+tokyo 
+toledo
+tonga
+tongzhou
+toronto 
+torreon
+toulon
+toulouse
+tours
+trinidad and tobago
+tripoli
+tucson
+tulsa
+tunis
+tunisia
+turin
+turkey
+turkmenistan
+tuvalu
+ufa
+uganda
+ujung pandang
+uk
+ukraine
+ulaanbaatar
+ulsan
+united arab emirates
+united kingdom 
+united states of america
+uruguay
+urumqi
+usa
+uzbekistan
+vadodara
+valencia
+valenciennes
+vancouver
+vanuatu
+varanasi
+vatican city
+venezuela
+vereeniging
+vienna
+vietnam
+vijayawada
+virginia beach
+visakhapatnam
+volgograd
+wafangdian
+warsaw
+washington
+weifang
+weinan
+wenzhou 
+wichita
+winnipeg
+winston
+wollongong
+worcester
+wuhan 
+wujiang
+wuxi
+xiamen
+xian
+xintai
+xinyang
+xuzhou
+yangon
+yantai
+yemen
+yerevan
+yichun
+yokohama
+yongcheng
+youngstown
+yuzhou
+zambia
+zapopan
+zaria
+zhanjiang
+zhengzhou
+zhongshan 
+zibo
+zimbabwe
+cardiff
+halmstad
+southern california
+hildesheim
+western australia
